@@ -1,0 +1,19 @@
+import json
+
+class Db(object):
+
+    def get_users(self):
+        try:
+            file = open("../users.json", "r")
+            return json.load(file)
+        except:
+            file = open("../users.json", "w")
+            file.close()
+            return []
+
+    def save(self):
+        users = self.get_users()
+        users.append(self.__dict__)
+        file = open("../users.json", "w")
+        json.dump(users, file, indent=4)
+        file.close()

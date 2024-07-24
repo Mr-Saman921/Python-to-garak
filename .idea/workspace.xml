@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4e06bec-0e8c-4916-8cad-be7cb432186f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/4-oy/3-dars/.gitignor" beforeDir="false" afterPath="$PROJECT_DIR$/4-oy/3-dars/Vazifa3/Vazifa_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-oy/3-dars/3-dars.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-oy/3-dars/3-dars.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/4-oy/3-dars" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/3-oy/2-dars.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3-oy/8-dars.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vazifa3/Qo'shimcha.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;0046ffff&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2i9B5epSIKIswOBiYGQAMrEm8Zl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.calendar.html.executor": "Run",
+    "Python.1-dars.executor": "Run",
+    "Python.10-dars.executor": "Run",
+    "Python.11-dars.executor": "Run",
+    "Python.2-dars.executor": "Run",
+    "Python.3-dars.executor": "Run",
+    "Python.4-dars.executor": "Run",
+    "Python.5-dars.executor": "Run",
+    "Python.6-dars.executor": "Run",
+    "Python.7-dars.executor": "Run",
+    "Python.8-dars.executor": "Run",
+    "Python.9-dars.executor": "Run",
+    "Python.Db7.executor": "Run",
+    "Python.Qo'shimcha.executor": "Run",
+    "Python.Vazifa.1.executor": "Run",
+    "Python.Vazifa.2.executor": "Run",
+    "Python.Vazifa.3.executor": "Run",
+    "Python.Vazifa.4.executor": "Run",
+    "Python.Vazifa.5.executor": "Run",
+    "Python.Vazifa.6.executor": "Run",
+    "Python.Vazifa.7.executor": "Run",
+    "Python.Vazifa.executor": "Run",
+    "Python.Vazifa3.executor": "Run",
+    "Python.Vazifa_1.executor": "Run",
+    "Python.Vazifa_2.executor": "Run",
+    "Python.Vazifa_3.executor": "Run",
+    "Python.Vazifa_4.executor": "Run",
+    "Python.Vazifa_5.executor": "Run",
+    "Python.Vazifa_6.executor": "Run",
+    "Python.War6.executor": "Run",
+    "Python.b.executor": "Run",
+    "Python.book.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.module1.executor": "Run",
+    "Python.module2.executor": "Run",
+    "Python.validator.executor": "Run",
+    "Python.vazifa.1.executor": "Run",
+    "Python.vazifa.2.executor": "Run",
+    "Python.vazifa.3.executor": "Run",
+    "Python.vazifa.4.executor": "Run",
+    "Python.vazifa.5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "version2",
+    "last_opened_file_path": "C:/Users/ПОЛЬЗОВАТЕЛЬ/Desktop/HTML to'garak",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ПОЛЬЗОВАТЕЛЬ\Desktop\Python to'garak\4-oy\2-dars\Vazifa2" />
+      <recent name="C:\Users\ПОЛЬЗОВАТЕЛЬ\Desktop\Python to'garak\4-oy\2-dars" />
+      <recent name="C:\Users\ПОЛЬЗОВАТЕЛЬ\Desktop\Python to'garak\4-oy\1-dars" />
+      <recent name="C:\Users\ПОЛЬЗОВАТЕЛЬ\Desktop\Python to'garak\3-oy\10-dars\Vazifa10" />
+      <recent name="C:\Users\ПОЛЬЗОВАТЕЛЬ\Desktop\Python to'garak" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="dict" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="DEFAULT_SDK" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4e06bec-0e8c-4916-8cad-be7cb432186f" name="Changes" comment="" />
+      <created>1718892730360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718892730360</updated>
+      <workItem from="1718892731475" duration="2998000" />
+      <workItem from="1718896564910" duration="9625000" />
+      <workItem from="1718952293728" duration="10803000" />
+      <workItem from="1719190474677" duration="16998000" />
+      <workItem from="1719316098610" duration="3118000" />
+      <workItem from="1719390799807" duration="15292000" />
+      <workItem from="1719565184401" duration="43745000" />
+      <workItem from="1719905900161" duration="3718000" />
+      <workItem from="1719936075893" duration="18871000" />
+      <workItem from="1720165149292" duration="16151000" />
+      <workItem from="1720601318068" duration="7413000" />
+      <workItem from="1720622329698" duration="4697000" />
+      <workItem from="1720630670662" duration="730000" />
+      <workItem from="1720774390535" duration="17674000" />
+      <workItem from="1720872796723" duration="22000" />
+      <workItem from="1721032231137" duration="8157000" />
+      <workItem from="1721053456022" duration="24566000" />
+      <workItem from="1721285504521" duration="2603000" />
+      <workItem from="1721314697454" duration="7000" />
+      <workItem from="1721315022621" duration="349000" />
+      <workItem from="1721316028179" duration="320000" />
+      <workItem from="1721378505694" duration="847000" />
+      <workItem from="1721379398667" duration="140000" />
+      <workItem from="1721379609382" duration="6835000" />
+      <workItem from="1721405771373" duration="13000" />
+      <workItem from="1721408697506" duration="3764000" />
+      <workItem from="1721412583375" duration="1061000" />
+      <workItem from="1721451343729" duration="742000" />
+      <workItem from="1721567724738" duration="49000" />
+      <workItem from="1721636917421" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_to_garak$5_dars.coverage" NAME="5-dars Coverage Results" MODIFIED="1721039280512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/5-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa_6.coverage" NAME="Vazifa_6 Coverage Results" MODIFIED="1720849537088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/11-dars/Vazifa11" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa3.coverage" NAME="Vazifa3 Coverage Results" MODIFIED="1720631247872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/10-dars/Vazifa10" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$3_dars.coverage" NAME="3-dars Coverage Results" MODIFIED="1721413644575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/3-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa_7.coverage" NAME="Vazifa.7 Coverage Results" MODIFIED="1720631270287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/10-dars/Vazifa10" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa.coverage" NAME="Vazifa Coverage Results" MODIFIED="1720196376640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vazifa8" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa_3.coverage" NAME="Vazifa_3 Coverage Results" MODIFIED="1721287593943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-oy/1-dars/Vazifa1" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$11_dars.coverage" NAME="11-dars Coverage Results" MODIFIED="1720781384249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/11-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Db7.coverage" NAME="Db7 Coverage Results" MODIFIED="1720002029282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$2_dars.coverage" NAME="2-dars Coverage Results" MODIFIED="1721386147655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-oy/2-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$validator.coverage" NAME="validator Coverage Results" MODIFIED="1720777743205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/11-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$module2.coverage" NAME="module2 Coverage Results" MODIFIED="1721063357981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/12-dars_Imtihon" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa_4.coverage" NAME="Vazifa_4 Coverage Results" MODIFIED="1721287659224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-oy/1-dars/Vazifa1" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$vazifa_2.coverage" NAME="vazifa.2 Coverage Results" MODIFIED="1720067993232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vazifa7" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$vazifa_5.coverage" NAME="vazifa.5 Coverage Results" MODIFIED="1718903413337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vazifa1" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$7_dars.coverage" NAME="7-dars Coverage Results" MODIFIED="1720191408897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$9_dars.coverage" NAME="9-dars Coverage Results" MODIFIED="1720631142603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/9-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa_1.coverage" NAME="Vazifa_1 Coverage Results" MODIFIED="1721452054137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-oy/2-dars/Vazifa2" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$vazifa_3.coverage" NAME="vazifa.3 Coverage Results" MODIFIED="1718901313262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vazifa1" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$6_dars.coverage" NAME="6-dars Coverage Results" MODIFIED="1719859498035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Qo_shimcha.coverage" NAME="Qo'shimcha Coverage Results" MODIFIED="1719318108851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vazifa3" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$main.coverage" NAME="main Coverage Results" MODIFIED="1721040061275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/12-dars_Imtihon" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa_2.coverage" NAME="Vazifa_2 Coverage Results" MODIFIED="1721287569481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-oy/1-dars/Vazifa1" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$4_dars.coverage" NAME="4-dars Coverage Results" MODIFIED="1719398648540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$book.coverage" NAME="book Coverage Results" MODIFIED="1720778582346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/11-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$b.coverage" NAME="b Coverage Results" MODIFIED="1719859871700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$vazifa_1.coverage" NAME="vazifa.1 Coverage Results" MODIFIED="1718945464331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vazifa1" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$War6.coverage" NAME="War6 Coverage Results" MODIFIED="1719829463824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$vazifa_4.coverage" NAME="vazifa.4 Coverage Results" MODIFIED="1718901388393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vazifa1" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$10_dars.coverage" NAME="10-dars Coverage Results" MODIFIED="1721112956550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/10-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$module1.coverage" NAME="module1 Coverage Results" MODIFIED="1721040068144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/12-dars_Imtihon" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$1_dars.coverage" NAME="1-dars Coverage Results" MODIFIED="1721380752683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-oy/1-dars" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$8_dars.coverage" NAME="8-dars Coverage Results" MODIFIED="1720196444270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy" />
+    <SUITE FILE_PATH="coverage/Python_to_garak$Vazifa_5.coverage" NAME="Vazifa_5 Coverage Results" MODIFIED="1721288328705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4-oy/1-dars/Vazifa1" />
+  </component>
+</project>
