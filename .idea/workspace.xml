@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4e06bec-0e8c-4916-8cad-be7cb432186f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/4-oy/3-dars/.gitignor" beforeDir="false" afterPath="$PROJECT_DIR$/4-oy/3-dars/Vazifa3/Vazifa_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-oy/3-dars/3-dars.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-oy/3-dars/3-dars.py" afterDir="false" />
+    <list default="true" id="e4e06bec-0e8c-4916-8cad-be7cb432186f" name="Changes" comment="iuytgf">
+      <change beforePath="$PROJECT_DIR$/4-oy/3-dars" beforeDir="false" afterPath="$PROJECT_DIR$/4-oy/3-dars" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,61 +39,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.calendar.html.executor": "Run",
-    "Python.1-dars.executor": "Run",
-    "Python.10-dars.executor": "Run",
-    "Python.11-dars.executor": "Run",
-    "Python.2-dars.executor": "Run",
-    "Python.3-dars.executor": "Run",
-    "Python.4-dars.executor": "Run",
-    "Python.5-dars.executor": "Run",
-    "Python.6-dars.executor": "Run",
-    "Python.7-dars.executor": "Run",
-    "Python.8-dars.executor": "Run",
-    "Python.9-dars.executor": "Run",
-    "Python.Db7.executor": "Run",
-    "Python.Qo'shimcha.executor": "Run",
-    "Python.Vazifa.1.executor": "Run",
-    "Python.Vazifa.2.executor": "Run",
-    "Python.Vazifa.3.executor": "Run",
-    "Python.Vazifa.4.executor": "Run",
-    "Python.Vazifa.5.executor": "Run",
-    "Python.Vazifa.6.executor": "Run",
-    "Python.Vazifa.7.executor": "Run",
-    "Python.Vazifa.executor": "Run",
-    "Python.Vazifa3.executor": "Run",
-    "Python.Vazifa_1.executor": "Run",
-    "Python.Vazifa_2.executor": "Run",
-    "Python.Vazifa_3.executor": "Run",
-    "Python.Vazifa_4.executor": "Run",
-    "Python.Vazifa_5.executor": "Run",
-    "Python.Vazifa_6.executor": "Run",
-    "Python.War6.executor": "Run",
-    "Python.b.executor": "Run",
-    "Python.book.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.module1.executor": "Run",
-    "Python.module2.executor": "Run",
-    "Python.validator.executor": "Run",
-    "Python.vazifa.1.executor": "Run",
-    "Python.vazifa.2.executor": "Run",
-    "Python.vazifa.3.executor": "Run",
-    "Python.vazifa.4.executor": "Run",
-    "Python.vazifa.5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "version2",
-    "last_opened_file_path": "C:/Users/ПОЛЬЗОВАТЕЛЬ/Desktop/HTML to'garak",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.calendar.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Db7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Qo'shimcha.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vazifa_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.War6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.book.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.validator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vazifa.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vazifa.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vazifa.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vazifa.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vazifa.5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;version2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ПОЛЬЗОВАТЕЛЬ/Desktop/HTML to'garak&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ПОЛЬЗОВАТЕЛЬ\Desktop\Python to'garak\4-oy\2-dars\Vazifa2" />
@@ -160,10 +159,23 @@
       <workItem from="1721567724738" duration="49000" />
       <workItem from="1721636917421" duration="66000" />
     </task>
+    <task id="LOCAL-00001" summary="iuytgf">
+      <option name="closed" value="true" />
+      <created>1721815622636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721815622636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="iuytgf" />
+    <option name="LAST_COMMIT_MESSAGE" value="iuytgf" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_to_garak$5_dars.coverage" NAME="5-dars Coverage Results" MODIFIED="1721039280512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3-oy/5-dars" />
